@@ -9,7 +9,6 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "build:lib": "ng-packagr -p ./projects/ng6-udm-chart/ng-package.json"
-
   },
   "private": true,
   "dependencies": {
