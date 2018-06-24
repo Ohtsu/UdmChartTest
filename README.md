@@ -58,8 +58,8 @@ $ ng serve -o
 
 ## Version
 
-   - udm-chart-test     : 0.3
-   - ng6-udm-chart          : 0.2.
+   - udm-chart-test     : 0.4
+   - ng6-udm-chart          : 0.4
    - Angular6              : 6.0.0
    - TypeScript            : 2.7.2
    - d3.js                 : 4.3.0
